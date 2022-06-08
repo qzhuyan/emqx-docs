@@ -102,6 +102,7 @@
   title_cn: 规则引擎与数据桥接
   children:
     - rule/rule-engine
+    - rule/rule-engine_configs
     - rule/rule-engine_grammar_and_examples
     - rule/rule-engine_field
     - rule/rule-engine_buildin_function
